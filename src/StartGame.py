@@ -77,7 +77,7 @@ class StartGame:
                  if (number % 2 == 0):
                    print("The number I am thinking of is even")
                  else:
-                   print("The number I am thinking of is even")
+                   print("The number I am thinking of is odd")
                  continue
 
            else:
