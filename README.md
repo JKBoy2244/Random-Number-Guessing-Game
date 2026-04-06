@@ -13,6 +13,6 @@
 # How to run the app
 
 
-<img width="940" height="411" alt="image" src="https://github.com/user-attachments/assets/48400943-daee-46c2-a463-4d97019225a8" />
+<img width="440" height="411" alt="image" src="https://github.com/user-attachments/assets/48400943-daee-46c2-a463-4d97019225a8" />
 
-<img width="940" height="765" alt="image" src="https://github.com/user-attachments/assets/66d5f34b-dd6e-4033-8add-302c5fdbc9e3" />
+<img width="440" height="765" alt="image" src="https://github.com/user-attachments/assets/66d5f34b-dd6e-4033-8add-302c5fdbc9e3" />
