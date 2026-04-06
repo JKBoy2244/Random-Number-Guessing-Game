@@ -3,6 +3,15 @@ import time
 import re
 import sys
 
+from Intro import Intro
+from NumberOfPlayers import NumberOfPlayers
+from GamePrep import GamePrep
+from StartGame import StartGame
+from ScoresOrdering import ScoresOrdering
+from Winner import Winner
+from BubbleSort import BubbleSort
+from Farewell import Farewell
+
 class Main:
 
   def playGame(self):
