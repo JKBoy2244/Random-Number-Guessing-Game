@@ -2,6 +2,7 @@ import random
 import time
 import re
 import sys
+from NumberOfPlayers import NumberOfPlayers
 
 class GamePrep(NumberOfPlayers):
 
