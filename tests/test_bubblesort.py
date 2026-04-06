@@ -13,7 +13,7 @@ class TestBubbleSort:
     assert max(values1) == 7896
     assert min(values1) == 23
 
- def testPlayerSort(self):
+  def testPlayerSort(self):
 
     sort = BubbleSort()
     values2 = [0, 10, 30, 200, 150, 10, 190, 40]
