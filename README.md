@@ -14,3 +14,15 @@
 
 
 # How to run the app
+
+- First, you download the zip file first on github by clicking download zip
+
+- Then, you extract the python file
+
+- After that, if you haven't installed python, install python (otherwise, this won't work on terminal)
+
+- Open terminal and type these 2 things in order:
+
+        cd ~/Downloads/file-name
+
+        python Main.py 
