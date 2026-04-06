@@ -105,7 +105,7 @@ class StartGame:
                      print("You have ", maxGuesses - guesses, "left!")
                      continue
 
-                   elif (500 <= abs(number-numberGuess) < 999):
+                   elif (500 <= abs(number-numberGuess) <= 999):
 
                      if guesses == maxGuesses:
 
@@ -120,7 +120,7 @@ class StartGame:
                      print("You have ", maxGuesses - guesses, "left!")
                      continue
 
-                   elif (1 <= abs(number-numberGuess) < 499):
+                   elif (1 <= abs(number-numberGuess) <= 499):
 
                      if guesses == maxGuesses:
 
@@ -152,7 +152,7 @@ class StartGame:
                     print("You have ", maxGuesses - guesses, "left!")
                     continue
 
-                  elif (500 <= abs(number-numberGuess) < 999):
+                  elif (500 <= abs(number-numberGuess) <= 999):
 
                     if guesses == maxGuesses:
 
@@ -167,7 +167,7 @@ class StartGame:
                     print("You have ", maxGuesses - guesses, "left!")
                     continue
 
-                  elif (1 <= abs(number-numberGuess) < 499):
+                  elif (1 <= abs(number-numberGuess) <= 499):
 
                     if guesses == maxGuesses:
 
