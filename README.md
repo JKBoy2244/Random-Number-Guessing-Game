@@ -27,4 +27,4 @@
 
         cd ~/Downloads/file-name
 
-        python Main.py 
+        python3 src/Main.py
