@@ -10,5 +10,5 @@ class TestWinner:
     scoreList = [0, 140, 120, 190, 200, 40]
     result = winner.displayWinner(playerList, scoreList)
 
-    assert max(scoreList) == 200
+    assert result == playerList[scoreList.index(max(scoreList))]
     assert result == "ABCDE@45671k"
