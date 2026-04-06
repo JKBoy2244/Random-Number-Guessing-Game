@@ -8,6 +8,8 @@
 
 - This program has extremely strong security involved to prevent millions of attempt for 1 question/prompt by enforcing a 3-attempt limit rule where if anywhere you bypass the attempt limit (at least before starting the game), the system automatically ends. Also, the game handles all kinds of invalid inputs very strongly in any way from empty inputs and out of range values to typing a string instead of a integer (not to mention robust regex checking).
 
+- 
+
 # How to run the app
 
 
