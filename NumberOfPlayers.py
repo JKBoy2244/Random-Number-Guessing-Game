@@ -5,7 +5,7 @@ import sys
 
 class NumberOfPlayers:
 
-  def __init__(self, number):
+  def __init__(self, number=0):
     self.number = number
 
   def get_number(self) -> int:
@@ -14,7 +14,11 @@ class NumberOfPlayers:
   def set_number(self, number: int):
     self.number = number
 
-  def Input(self):
+  def Input(self, value=None):
+
+    if value is not None:
+        self.set_number(value)
+        return "Successful"
 
     maxAttempts = 10
     attempts = 0
