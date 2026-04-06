@@ -45,7 +45,7 @@ class NumberOfPlayers:
               if attempts == maxAttempts:
                 sys.exit("Too many attempts.")
 
-              print("That's less than the minimum number of players. Please try again")
+              print("That's outside the restricted number of players. Please try again")
               print("You now have", maxAttempts-attempts, "left now!")
               continue
 
